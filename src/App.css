@@ -91,3 +91,32 @@ a {
     transform: scale(1);
   }
 }
+
+@media screen and (max-width: 700px) {
+  .section__padding {
+    padding: 4rem;
+  }
+  .section__margin {
+    padding: 4rem;
+  }
+}
+
+/*For Tablets/Bigger Devices*/
+@media screen and (max-width: 700px) {
+  .section__padding {
+    padding: 4rem;
+  }
+  .section__margin {
+    padding: 4rem;
+  }
+}
+
+/*For Mobile Devices*/
+@media screen and (max-width: 550px) {
+  .section__padding {
+    padding: 4rem 2rem;
+  }
+  .section__margin {
+    padding: 4rem 2rem;
+  }
+}
