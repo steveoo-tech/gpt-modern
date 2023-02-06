@@ -3,6 +3,8 @@ import "./header.css";
 import people from "../../assets/people.png";
 import ai from "../../assets/ai.png";
 
+/*Header done and fully responsive*/
+
 function Header() {
   return (
     <div className="gpt3__header section__padding" id="home">
