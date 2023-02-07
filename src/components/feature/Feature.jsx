@@ -1,6 +1,8 @@
 import React from "react";
 import "./feature.css";
 
+///*Feature done and fully responsive*/
+
 // passing title and text as props
 function Feature({ title, text }) {
   return (
