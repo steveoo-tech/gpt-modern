@@ -3,6 +3,8 @@ import "./possibility.css";
 
 import possibilityImage from "../../assets/possibility.png";
 
+/*Possibility done and fully responsive*/
+
 function Possibility() {
   return (
     <div className="gpt3__possibility section__padding" id="possibility">
