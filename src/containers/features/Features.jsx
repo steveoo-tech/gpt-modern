@@ -2,6 +2,8 @@ import React from "react";
 import { Feature } from "../../components";
 import "./features.css";
 
+/*Features done and fully responsive*/
+
 const featuresData = [
   {
     title: "Improving end distrusts instantly",
