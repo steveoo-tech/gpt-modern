@@ -1,4 +1,5 @@
 import React from "react";
+import { Feature } from "../../components";
 import "./features.css";
 
 const featuresData = [
@@ -30,7 +31,11 @@ function Features() {
         </h1>
         <p>Request Early Access to Get Started</p>
       </div>
-      <div className="gpt3__features-container"></div>
+      <div className="gpt3__features-container">
+        {featuresData.map((item, index) => (
+          <Feature title={item.text} key={item.title + index} />
+        ))}
+      </div>
     </div>
   );
 }
