@@ -1,6 +1,8 @@
 import React from "react";
 import "./cta.css";
 
+/*CTA done and fully responsive*/
+
 function CTA() {
   return (
     <div className="gpt3__cta">
