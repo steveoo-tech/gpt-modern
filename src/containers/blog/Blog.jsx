@@ -18,29 +18,29 @@ function Blog() {
           <Article
             imgUrl={blog01}
             date="Feb 14, 2023"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="Overview of GPT-3: OpenAI is the future. Let us exlore how it is?"
           />
         </div>
         <div className="gpt3__blog-container_groupB">
           <Article
             imgUrl={blog02}
             date="Jan 26, 2023"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 in Business: OpenAI is the future. Let us exlore how it is?"
           />
           <Article
             imgUrl={blog03}
             date="Jan 18, 2023"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 in Education: OpenAI is the future. Let us exlore how it is?"
           />
           <Article
             imgUrl={blog04}
             date="Jan 12, 2023"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="GPT-3 in Job Replacement: and OpenAI is the future"
           />
           <Article
             imgUrl={blog05}
             date="Jan 10, 2023"
-            title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+            title="Ethics and Limitations of GPT-3: Open  AI is the future."
           />
         </div>
       </div>
