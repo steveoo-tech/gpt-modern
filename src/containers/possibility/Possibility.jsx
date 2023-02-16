@@ -17,10 +17,10 @@ function Possibility() {
           The possibilities are beyond your imagination
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          GPT-3 has been used to create articles, poetry, stories, news reports
+          and dialogue using a small amount of input text that can be used to
+          produce large amounts of copy. GPT-3 can create anything with a text
+          structure -- not just human language text.
         </p>
         <h4>Request Early Access to Get Started</h4>
       </div>
